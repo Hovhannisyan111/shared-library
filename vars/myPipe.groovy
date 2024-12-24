@@ -3,5 +3,5 @@
  * @param message Message to print
  */
 def call(String message = 'Hello from my custom pipeline step!') {
-    echo "myPipelineStep says: ${message}"
+    echo "myPipe says: ${message}"
 }
