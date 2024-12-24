@@ -1,4 +1,3 @@
-package com.mycompany.utils
 
 class MyHelper {
     static String generateGreeting(String name) {
